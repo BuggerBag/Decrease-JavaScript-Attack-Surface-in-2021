@@ -17,7 +17,7 @@ https://medium.com/ax1al/javascript-obfuscation-what-why-and-how-5a269e6b6d50
 JavaScript Code Obfuscation Techniques For Malware Delivery <br>
 JS	Suicide:	Using	JavaScript	Security	Features	to	Kill	JS	Security <br>
 
-🍩 Usage example of JavaScript tamper proof object
+🍩 Usage example of JavaScript tamper proof object <br>
 https://devbugfix.com/p/1019 <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions <br>
 
