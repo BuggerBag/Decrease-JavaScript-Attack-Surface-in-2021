@@ -15,5 +15,4 @@ https://medium.com/ax1al/javascript-obfuscation-what-why-and-how-5a269e6b6d50
 
 🍩 Search google :) for more information <br>
 JavaScript Code Obfuscation Techniques For Malware Delivery
-
-we add ```Malware with your Mocha?```. you can read it for getting more info.
+https://www.sophos.com/en-us/medialibrary/PDFs/technical%20papers/malware_with_your_mocha.pdf
