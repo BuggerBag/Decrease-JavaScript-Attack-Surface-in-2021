@@ -21,6 +21,8 @@ JS	Suicide:	Using	JavaScript	Security	Features	to	Kill	JS	Security <br>
 https://devbugfix.com/p/1019 <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions <br>
 
+🍩 10 Most Common Web Security Vulnerabilities <br>
+https://www.toptal.com/security/10-most-common-web-security-vulnerabilities <br>
 
 
 ```Malware with your Mocha?``` <br> https://www.sophos.com/en-us/medialibrary/PDFs/technical%20papers/malware_with_your_mocha.pdf
