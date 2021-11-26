@@ -15,6 +15,13 @@ https://medium.com/ax1al/javascript-obfuscation-what-why-and-how-5a269e6b6d50
 
 🍩 Search google :) for more information <br>
 JavaScript Code Obfuscation Techniques For Malware Delivery <br>
+JS	Suicide:	Using	JavaScript	Security	Features	to	Kill	JS	Security <br>
+
+🍩 Usage example of JavaScript tamper proof object
+https://devbugfix.com/p/1019 <br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions <br>
+
+
 
 ```Malware with your Mocha?``` <br> https://www.sophos.com/en-us/medialibrary/PDFs/technical%20papers/malware_with_your_mocha.pdf
 
