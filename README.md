@@ -9,3 +9,11 @@ https://blog.jscrambler.com/the-most-effective-way-to-protect-client-side-javasc
 
 🍩 JavaScript Obfuscation: The Definitive Guide (2021) <br>
 https://blog.jscrambler.com/javascript-obfuscation-the-definitive-guide
+
+🍩 Javascript Obfuscation: What, Why and How? <br>
+https://medium.com/ax1al/javascript-obfuscation-what-why-and-how-5a269e6b6d50
+
+🍩 Search google :) for more information <br>
+JavaScript Code Obfuscation Techniques For Malware Delivery
+
+we add ```Malware with your Mocha?```. you can read it for getting more info.
