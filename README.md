@@ -19,6 +19,7 @@ JS	Suicide:	Using	JavaScript	Security	Features	to	Kill	JS	Security <br>
 
 🍩 Usage example of JavaScript tamper proof object <br>
 https://devbugfix.com/p/1019 <br>
+http://www.tutorialspark.com/javascript/JavaScript_Tamper_Proof_Object.php <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions <br>
 
 🍩 10 Most Common Web Security Vulnerabilities <br>
